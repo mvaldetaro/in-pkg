@@ -1,6 +1,7 @@
 {
   "name": "in-pkg",
   "version": "0.0.4",
+  "private": true,
   "description": "Teste de publicação de pacotes no NPM",
   "readmeFilename": "README.md" ,
   "repository": {
@@ -30,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/mvaldetaro/in-pkg/issues"
   },
-  "homepage": "http://investira.com.br/"
+  "homepage": "http://investira.com.br/",
+  "publishConfig": {
+    "access": "public"
+  }
 }
