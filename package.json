@@ -1,8 +1,12 @@
 {
   "name": "in-pkg",
-  "version": "0.0.2",
-  "readmeFilename": "README.md" ,
+  "version": "0.0.4",
   "description": "Teste de publicação de pacotes no NPM",
+  "readmeFilename": "README.md" ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvaldetaro/in-pkg.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -17,21 +21,11 @@
     "homepage": "https://github.com/mvaldetaro"
   },
   "peerDependencies": {
-    
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
   },
-  "dependencies":{
-
-  },
-  "devDependencies": {
-
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mvaldetaro/in-pkg.git"
-  },
-  "engines": {
-    "node": ">=0.8.0"
-  },
+  "dependencies":{},
+  "devDependencies": {},
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mvaldetaro/in-pkg/issues"
