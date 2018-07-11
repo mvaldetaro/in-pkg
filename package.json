@@ -1,6 +1,6 @@
 {
   "name": "in-pkg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "readmeFilename": "README.md" ,
   "description": "Teste de publicação de pacotes no NPM",
   "main": "index.js",
