@@ -1,0 +1,40 @@
+{
+  "name": "in-pkg",
+  "version": "0.0.1",
+  "readmeFilename": "README.md" ,
+  "description": "Teste de publicação de pacotes no NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "teste",
+    "npm"
+  ],
+  "author": {
+    "name": "Magno Valdetaro de Oliveira",
+    "email": "mvaldetaro@gmail.com",
+    "homepage": "https://github.com/mvaldetaro"
+  },
+  "peerDependencies": {
+    
+  },
+  "dependencies":{
+
+  },
+  "devDependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvaldetaro/in-pkg.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvaldetaro/in-pkg/issues"
+  },
+  "homepage": "http://investira.com.br/"
+}
